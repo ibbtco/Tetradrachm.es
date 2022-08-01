@@ -3,7 +3,7 @@
   "timestamp": "2022-06-29T15:57:01.868Z",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {},
@@ -19,7 +19,7 @@
       "name": "iBBT",
       "symbol": "iBBT",
       "decimals": 18,
-      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re"
     },
     {
       "chainId": 1,
@@ -27,7 +27,7 @@
       "name": "XDL",
       "symbol": "XDL",
       "decimals": 4,
-      "logoURI": "ipfs://bafkreib4menr6oq77h3jvpydpxtzj3b5vwnfvcztamlvv77zs77jdyznke",
+      "logoURI": "ipfs://bafkreib4menr6oq77h3jvpydpxtzj3b5vwnfvcztamlvv77zs77jdyznke"
     },
     {
       "chainId": 1,
